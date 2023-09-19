@@ -1,3 +1,18 @@
+# FastAPI:
+
+**Strengths:**
+
+    Pythonic: If you're already familiar with Python, FastAPI is a natural choice.
+    Asynchronous Support: It leverages Python's async and await for handling asynchronous operations efficiently.
+    Automatic Documentation: FastAPI generates interactive API documentation (Swagger) and offers a built-in web-based API explorer.
+    Type Annotations: Strongly typed with Pydantic models, which improves code clarity and auto-generates validation and serialization code.
+    High Performance: FastAPI is known for its speed and is suitable for high-performance API development.
+    Security: Offers security features such as input validation and automatic generation of OpenAPI documentation.
+
+**Considerations:**
+
+    While Python is known for its simplicity, FastAPI may have a steeper learning curve for newcomers to asynchronous programming.
+
 # Node.js with Express:
 
 **Strengths:**
