@@ -161,3 +161,5 @@ cython_debug/
 
 #configurations
 masquerade-92984-firebase-adminsdk-4dgll-38f641c3fb.json
+.conf
+.my_pgpass
