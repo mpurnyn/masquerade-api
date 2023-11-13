@@ -28,3 +28,8 @@ the following steps were taken
 16. run this command `python manage.py makemigrations myapp` to generate migrations for your apps new models. django will run the migrations against your db to create the tables.
 17. run python manage.py check to check for any problems in the migrations
 18. run the migration again 
+19. add a __str__() representation for each model
+20. test out python manage.py shell to create new entries for the tables
+21. add an admin account for the site wth python manage.py createsuperuser
+22. start the server and check out the admin site
+23. make app models modifyable in admin by registering them in app\admin.py
